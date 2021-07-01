@@ -120,6 +120,7 @@ h1 span {
         background-postion: center center;
         order: 2;
         width: 50%;
+        height: 100%;
         border-radius: 0 5px 5px 0;
     }
 
